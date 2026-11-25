@@ -1,5 +1,5 @@
 {
-  "version": "0.2.48",
-  "url": "https://github.com/ardia-browser/ardia/releases/download/v0.2.48/Ardia-0.2.48-linux-x64.tar.xz",
-  "hash": "sha256-71kwhz6BVqt4//tnuAtBJZlJoiifLMhMaps/5ZYYHrE="
+  "version": "0.2.49-nightly.1",
+  "url": "https://github.com/ardia-browser/ardia/releases/download/v0.2.49-nightly.1/Ardia-0.2.49-nightly.1-linux-x64.tar.xz",
+  "hash": "sha256-UUGQeuQmN8r4hux++WQ1o0AO2rq71dkPo99mtIsV3i0="
 }
